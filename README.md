@@ -19,3 +19,5 @@ To use this project, you need to download the dataset for handwritten digit reco
 1. Visit the Kaggle dataset page: [Handwritten Digit Recognition Dataset](https://www.kaggle.com/datasets/subho117/handwritten-digit-recognition-using-neural-network).  
 2. Download the dataset file.  
 3. Put the dataset file in the root of this repository
+
+## After dowloading the MNIST dataset, run the file GUI.py  
